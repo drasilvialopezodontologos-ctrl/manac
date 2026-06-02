@@ -1,1 +1,1 @@
-# manac
+# manacafe_pos
